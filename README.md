@@ -4,4 +4,4 @@ Demo application using .NET Core Web Application with React and Kendo React Grid
 
 # Screenshots
 
- <img height='600' width='300' src='dotnetCore Kendo.png' />
+ <img height='600' width='900' src='dotnetCore Kendo.png' />
