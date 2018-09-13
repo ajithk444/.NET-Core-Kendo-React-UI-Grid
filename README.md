@@ -1,6 +1,8 @@
 # .NET-Core-Kendo-React-UI-Grid
 Demo application using .NET Core Web Application with React and Kendo React Grid.
 
+Application with .net core and react
+
 
 # Screenshots
 
